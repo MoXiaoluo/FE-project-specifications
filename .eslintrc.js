@@ -6,7 +6,7 @@ module.exports = {
   extends: ['plugin:react/recommended', 'google'],
   overrides: [],
   parserOptions: {
-    ecmaVersion: 6,
+    ecmaVersion: 'latest',
     sourceType: 'module',
   },
   plugins: ['react'],
